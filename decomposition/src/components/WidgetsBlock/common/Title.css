@@ -1,0 +1,10 @@
+.widget-title {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.widget-title-link {
+  color: #0458be;
+}

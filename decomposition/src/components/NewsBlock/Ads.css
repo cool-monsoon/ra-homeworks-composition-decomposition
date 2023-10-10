@@ -1,0 +1,30 @@
+.ads {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 50px;
+}
+
+.ads-image-container {
+  width: 200px;
+}
+
+.ads-image {
+  border-radius: 100px;
+}
+
+.ads-title {
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-size: 18px;
+}
+
+.ads-title-link {
+  color: #0458be;
+}
+
+.ads-description {
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-size: 15px;
+}

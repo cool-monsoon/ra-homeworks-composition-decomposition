@@ -1,0 +1,33 @@
+.news-nav {
+  display: flex;
+}
+
+.news-nav-menu {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.news-nav-menu-item {
+  margin-right: 12px;
+}
+
+.news-nav-menu-item 
+.news-nav-menu-item-link {
+  font-weight: 700;
+  color: #6da2e1;
+}
+
+.news-nav-menu-item.active 
+.news-nav-menu-item-link {
+  color: #0458be;
+}
+
+.news-current-datetime {
+  font-size: 13px;
+  color: #94959b;
+}
+
+.news-content {
+  margin-top: 10px;
+  font-size: 15px;
+}
